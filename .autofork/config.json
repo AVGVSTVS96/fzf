@@ -1,0 +1,4 @@
+{
+  "upstream": "junegunn/fzf",
+  "follow": "releases"
+}
