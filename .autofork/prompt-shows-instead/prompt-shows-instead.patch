@@ -1,0 +1,13 @@
+diff --git a/src/options.go b/src/options.go
+index 94e3a7f93459eb02d45e8517e4a8f54758e352d3..d55f795f63f1e6da1171a4390051a17ffcaf82ad 100644
+--- a/src/options.go
++++ b/src/options.go
+@@ -772,7 +772,7 @@ func defaultOptions() *Options {
+ 		Ghost:        "",
+ 		Separator:    nil,
+ 		JumpLabels:   defaultJumpLabels,
+-		Prompt:       "> ",
++		Prompt:       "❯ ",
+ 		Gutter:       nil,
+ 		GutterRaw:    nil,
+ 		Pointer:      nil,

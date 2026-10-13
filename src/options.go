@@ -772,7 +772,7 @@ func defaultOptions() *Options {
 		Ghost:        "",
 		Separator:    nil,
 		JumpLabels:   defaultJumpLabels,
-		Prompt:       "> ",
+		Prompt:       "❯ ",
 		Gutter:       nil,
 		GutterRaw:    nil,
 		Pointer:      nil,
